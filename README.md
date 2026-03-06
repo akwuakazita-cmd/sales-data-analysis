@@ -5,4 +5,4 @@ This project analyzes retail sales data to identify revenue trends and top-perfo
 Tools Used:
 - Excel
 - Power BI
-- SQL
+  
