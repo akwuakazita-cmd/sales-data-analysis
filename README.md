@@ -1,2 +1,8 @@
 # sales-data-analysis
-Sales Data Analysis using Excel and Power BI
+
+This project analyzes retail sales data to identify revenue trends and top-performing products.
+
+Tools Used:
+- Excel
+- Power BI
+- SQL
